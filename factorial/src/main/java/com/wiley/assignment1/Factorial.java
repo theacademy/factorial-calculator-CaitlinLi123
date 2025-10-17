@@ -82,7 +82,8 @@ public class Factorial {
 
 		//YOUR CODE ENDS HERE
 		this.printStream.print("The Factorial is: " + result);		
-		
+
+
 	 }
 	 
 	 public void calculateFactorial() {
